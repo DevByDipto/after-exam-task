@@ -71,3 +71,28 @@
     
 //     response.ok
 //     (explore this type of feature)
+
+// 7.
+// . array কিভাবে ডিক্লেয়ার করে array এর মধ্যে length, index, push, pop, indexOf, includes এইগুলা কিভাবে কাজ করে। কোনটা দিয়ে কি করে? সেগুলা কি তুমি জানো? কোন একটা জিনিস array কিনা সেটা চেক করার সিস্টেম জানতে হবে। আরেকটু ভালো হয় slice এবং splice জানলে। আরো বোনাস কিছু জানতে চাইলে shift, unshift, join দেখতে পারো। এডভান্স হিসেবে reduce দেখতে পারো।
+// 8.
+// ১. string কি জিনিস। স্ট্রিং কেমনে ডিক্লেয়ার করে। স্ট্রিং থেকে কিভাবে কোন একটা ক্যারেক্টার খুঁজে বের করে। চাইলে স্ট্রিং এর উপরে কি লুপ চালানো যায়। এছাড়াও length, includes, indexOf, toUpperCase, toLowerCase, জানতেই হবে। subString, concat জানলে ভালো। বোনাস হিসেবে জানতে পারো string কি mutable নাকি immutable
+// 9.
+//  null এবং undefined কি জিনিস। কখন কোনটা ইউজ করা হয়। বা কখন কোনটা কিভাবে চেক করতে হয়। সেটা জানতে হবে। 
+
+
+//10.
+//অপশনাল চেইনিং কি জিনিস, সেটা কখন কিভাবে ইউজ করে ?
+//11.
+//Math দিয়ে min, max, ceil, floor, abs, round, random ইত্যাদি দেখে রাখতে হবে। যদি লাগে যেন বের করে ফেলতে পারো
+//11.
+// আগে না হয় পরে রেগুলার এক্সপ্রেশন কি জিনিস এবং কিভাবে এপ্লাই করে। কি কারণে এপ্লাই করে সেটা জানতে হবে 
+//12.
+//এটলিস্ট JSON কিভাবে parse করে বা stringify করে সেটা জানতে হবে 
+// module-38, class-8, time-10:00
+// react er moddhe jokhon map er moto kono loop use kore kono component rendering korabo tokhon akti unic key use kprte hobe.(aitar details ta bujte hobe)
+
+
+
+
+
+
